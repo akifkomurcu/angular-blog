@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server"
+    },
+    {
+      "name": "akif",
+      "date": "2023-12-24T13:01:35.259Z",
+      "id": 2
+    }
+  ]
+}
